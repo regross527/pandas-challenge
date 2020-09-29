@@ -1,0 +1,7 @@
+1) Male players are our most common users, but they also tend to spend less, per person, than non-male players. Perhaps looking into ways to improve the game's appeal to non-male players would help increase profitability.
+
+2) Our age demographics skew heavily towards players in their early 20s (20-24). Those players are some of the most profitable as well, so no need to make major changes there.
+
+3) Some items (such as Nirvana and Singed Scalpel) are making high amounts of income despite their high prices. Perhaps a slight reduction to cost on these items would improve the likelihood that these items would be purchased more often, thus generating even greater revenue.
+
+## please note that some formatting on the Jupyter file works in Jupyter Notebook but not in the GitHub reader.
